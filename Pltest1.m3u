@@ -1,8 +1,8 @@
-#EXTM3U url-epg="http://iptvhit.live/AzZ/epg/BEIN/ZANA"
+#EXTM3U
+url-epg="http://iptvhit.live/AzZ/epg/BEIN/ZANA"
 tvg-logo="https://i.imgur.com/"
-
-#EXTINF:-1 tvg-id="1"
-
-tvg-logo=«6A6cbta.png",AR:BEINSPORTS-1
+#EXTINF:-1
+tvg-id="1"
+tvg-logo="6A6cbta.png"
 group-title=«Group_1» , Channel 1
-http://iptvhit.live/AzZ/BEIN/ZANA/60
+http://iptvhit.live/AzZ/BEIN/ZANA/60.m3u8
