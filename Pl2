@@ -1,0 +1,3 @@
+#EXTM3U url-epg="http://example.com/epg_url/« url-logo="http://example.com/images/"
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title=«Group_1» , Channel 1
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
